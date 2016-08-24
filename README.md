@@ -1,6 +1,4 @@
 # Android_Doc
-Android相关的文档
-
 
 View相关
 
